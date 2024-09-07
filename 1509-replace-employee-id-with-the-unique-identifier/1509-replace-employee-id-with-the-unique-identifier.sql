@@ -1,0 +1,3 @@
+SELECT U.unique_id, E.name 
+FROM EMPLOYEES E LEFT OUTER JOIN EMPLOYEEUNI U
+ON E.ID=U.ID                                                                                                                                                                                                                                                                                                                                                                                                                                                         
