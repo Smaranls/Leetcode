@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Smaranls/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Smaranls/Leetcode/tree/master/0044-wildcard-matching) |
 ## Recursion
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Smaranls/Leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Smaranls/Leetcode/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -52,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Smaranls/Leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Smaranls/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
