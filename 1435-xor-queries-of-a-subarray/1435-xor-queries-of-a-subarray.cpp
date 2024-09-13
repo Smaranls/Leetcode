@@ -1,29 +1,23 @@
 class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
-        vector<int> ans;
-        int val;
-        for(int i=0;i<queries.size();i++){
-            int val =0 ;
-            int j = queries[i][0];
-            int k =queries[i][1];
-
-            if(k==j)
-            {
-                val = arr[k];
-            }
-
-            else{
-            while(j<=k){
-                val = val ^ arr[j];
-                j++;
-            }
-            }
-
-            ans.push_back(val);
-        }
-
+        int n = arr.size();
+        vector<int> prefixXOR(n + 1, 0);  // Prefix XOR array
         
-    return ans;
+        // Build the prefix XOR array
+        for (int i = 0; i < n; ++i) {
+            prefixXOR[i + 1] = prefixXOR[i] ^ arr[i];
+        }
+        
+        vector<int> ans;
+        
+        // Answer each query in constant time
+        for (auto& query : queries) {
+            int left = query[0];
+            int right = query[1];
+            ans.push_back(prefixXOR[right + 1] ^ prefixXOR[left]);
+        }
+        
+        return ans;
     }
 };
