@@ -70,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Smaranls/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Smaranls/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1319-unique-number-of-occurrences](https://github.com/Smaranls/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Smaranls/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Smaranls/Leetcode/tree/master/0189-rotate-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Smaranls/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
