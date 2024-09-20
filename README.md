@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Smaranls/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smaranls/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Smaranls/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/Smaranls/Leetcode/tree/master/0274-h-index) |
 | [1319-unique-number-of-occurrences](https://github.com/Smaranls/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Smaranls/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Smaranls/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Smaranls/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Smaranls/Leetcode/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Smaranls/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
