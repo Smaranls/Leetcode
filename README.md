@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Smaranls/Leetcode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Smaranls/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Smaranls/Leetcode/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Smaranls/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
