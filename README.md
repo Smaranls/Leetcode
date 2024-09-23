@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Smaranls/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Smaranls/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Smaranls/Leetcode/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/Smaranls/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Smaranls/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Smaranls/Leetcode/tree/master/0189-rotate-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Smaranls/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Smaranls/Leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Smaranls/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Smaranls/Leetcode/tree/master/0189-rotate-array) |
 ## Queue
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Smaranls/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Smaranls/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Smaranls/Leetcode/tree/master/0274-h-index) |
 ## Counting Sort
