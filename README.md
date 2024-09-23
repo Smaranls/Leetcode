@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Smaranls/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Smaranls/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Smaranls/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Smaranls/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Smaranls/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smaranls/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Smaranls/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Smaranls/Leetcode/tree/master/0189-rotate-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Smaranls/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
