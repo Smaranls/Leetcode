@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Smaranls/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Smaranls/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Smaranls/Leetcode/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/Smaranls/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Smaranls/Leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Smaranls/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Greedy
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Smaranls/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Smaranls/Leetcode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Smaranls/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Smaranls/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smaranls/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Smaranls/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Smaranls/Leetcode/tree/master/0274-h-index) |
