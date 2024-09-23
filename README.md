@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Smaranls/Leetcode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Smaranls/Leetcode/tree/master/0050-powx-n) |
 ## Database
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Smaranls/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Smaranls/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Smaranls/Leetcode/tree/master/0189-rotate-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Smaranls/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
