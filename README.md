@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Smaranls/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Smaranls/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Smaranls/Leetcode/tree/master/0072-edit-distance) |
+| [0322-coin-change](https://github.com/Smaranls/Leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Smaranls/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Greedy
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Smaranls/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Smaranls/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Smaranls/Leetcode/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/Smaranls/Leetcode/tree/master/0322-coin-change) |
 | [1319-unique-number-of-occurrences](https://github.com/Smaranls/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Smaranls/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Smaranls/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Smaranls/Leetcode/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Smaranls/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
