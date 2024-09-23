@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Smaranls/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Smaranls/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Smaranls/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Smaranls/Leetcode/tree/master/0066-plus-one) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Smaranls/Leetcode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Smaranls/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Binary Search
 |  |
