@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Smaranls/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Smaranls/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Smaranls/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Smaranls/Leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Smaranls/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Smaranls/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Smaranls/Leetcode/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/Smaranls/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Binary Search
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Smaranls/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Smaranls/Leetcode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
